@@ -1,11 +1,12 @@
 # Project--Banking_System
 Name-Hemraj Chakravarti
 Batch-3
-Employee Id-194565
+Employee Id-194565                                                                                                                                                                 
 
 
 
-The banking application allows the user, i.e., the bank employee to create a bank account for a specific client. It allows him to list all the available bank accounts. For each account, it allows him to display the account details, withdraw money and deposit money.
+
+The banking application allows the user, i.e., the User to create a bank account. It allows User to avail bank account Services. For each account, it allows him to display the account details, withdraw money and deposit money.
 Services Provided
 1) Open a new bank account
 2) Deposit to a bank account
